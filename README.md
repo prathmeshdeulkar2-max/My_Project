@@ -1,4 +1,4 @@
-# Student Job Recommendation System
+# Learning Recommendation System
 
 A Streamlit web app that generates personalized job recommendations for students by analyzing their resume and academic profile using Google's Gemini AI.
 
